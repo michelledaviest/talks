@@ -1,6 +1,6 @@
 # Note: Background and Intended Audience
 
-My friends, and people I work with, have noticed how (generally) organized I am and I occasionally get questions about the processes I have built over the years to stay organized. I would make presentations that answered frequently asked questions and would give the person who asked me these questions a copy of the presentation. It was a way to avoid fatigue of answering the same question repeatedly and make sure my answers didn't vary from person to person depending on how sociable I felt when asked such a question. <br />
+Over the years, I occasionally get questions from friends or people I work with about the processes I have built over the years to stay organized. I would make presentations that answered frequently asked questions and would give the person who asked me these questions a copy of the presentation. It was a way to avoid fatigue of answering the same question repeatedly and make sure my answers didn't vary from person to person depending on how sociable I felt when asked such a question. <br />
 
 In 2020, a friend of mine invited me to speak at a freshman induction talk about organization and I finally decided to consolidate everything I knew on the topic. The resulting presentation is called "organize-your-life-and-dont-burnout" and the supporting files in this repo are answers to some other questions I would frequently get.  <br />
 
